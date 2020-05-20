@@ -1,0 +1,54 @@
+# this file is generated via https://github.com/tianon/docker-bash/blob/a9c27dc3ab0927afc456dfe6032682bf6ba2992e/generate-stackbrew-library.sh
+
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
+GitRepo: https://github.com/tianon/docker-bash.git
+
+Tags: devel-20200515, devel
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: 589e5b0f056aed5ba755bdbb352c7ba45180449f
+Directory: devel
+
+Tags: 5.0.17, 5.0, 5, latest
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: bdb65fba59b806a9987f3b8e9d4522d5f4d49a92
+Directory: 5.0
+
+Tags: 4.4.23, 4.4, 4
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: f55ec52c6bb3a9a1b942a775f848002826b58b8a
+Directory: 4.4
+
+Tags: 4.3.48, 4.3
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: f55ec52c6bb3a9a1b942a775f848002826b58b8a
+Directory: 4.3
+
+Tags: 4.2.53, 4.2
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: f55ec52c6bb3a9a1b942a775f848002826b58b8a
+Directory: 4.2
+
+Tags: 4.1.17, 4.1
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: f55ec52c6bb3a9a1b942a775f848002826b58b8a
+Directory: 4.1
+
+Tags: 4.0.44, 4.0
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: f55ec52c6bb3a9a1b942a775f848002826b58b8a
+Directory: 4.0
+
+Tags: 3.2.57, 3.2, 3
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: f55ec52c6bb3a9a1b942a775f848002826b58b8a
+Directory: 3.2
+
+Tags: 3.1.23, 3.1
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: f55ec52c6bb3a9a1b942a775f848002826b58b8a
+Directory: 3.1
+
+Tags: 3.0.22, 3.0
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: f55ec52c6bb3a9a1b942a775f848002826b58b8a
+Directory: 3.0

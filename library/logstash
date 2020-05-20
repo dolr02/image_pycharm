@@ -1,0 +1,13 @@
+# this file is generated via https://github.com/docker-library/logstash/blob/18d3da965bb702a12edd9d387afd16bd965c5b1c/generate-stackbrew-library.sh
+
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
+             Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
+GitRepo: https://github.com/docker-library/logstash.git
+
+Tags: 7.7.0
+GitCommit: 0d647982be457e2a1f1910a143eff0778ba09f76
+Directory: 7
+
+Tags: 6.8.9
+GitCommit: 0d647982be457e2a1f1910a143eff0778ba09f76
+Directory: 6

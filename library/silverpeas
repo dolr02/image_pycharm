@@ -1,0 +1,7 @@
+# This file is generated via https://github.com/Silverpeas/docker-silverpeas-prod/blob/master/generate-docker-library.sh
+Maintainers: Miguel Moquillon <miguel.moquillon@silverpeas.org> (@mmoqui)
+GitRepo: https://github.com/Silverpeas/docker-silverpeas-prod.git
+
+Tags: 6.0.2, latest
+GitCommit: 189a4f2db783d5052add54f2c07ca7a3b860c685
+

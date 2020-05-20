@@ -1,0 +1,11 @@
+Maintainers: Moritz Lenz <moritz.lenz@gmail.com> (@moritz)
+GitRepo: https://github.com/raku/docker
+
+Tags: latest, 2020.01
+Architectures: amd64, arm64v8
+GitCommit: d893fa621e755045c80fb4d0615c2810812d98f7
+
+Tags: alpine, 2020.01-alpine
+Architectures: amd64, arm64v8
+GitCommit: d893fa621e755045c80fb4d0615c2810812d98f7
+Directory: alpine

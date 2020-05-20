@@ -1,0 +1,25 @@
+# this file is generated via https://github.com/geonetwork/docker-geonetwork/blob/f81b111fbe3d765ee56f61c5474099764ee07004/generate-stackbrew-library.sh
+
+Maintainers: Joana Simoes <jo@doublebyte.net> (@doublebyte1),
+     Juan Luis Rodriguez <juanluisrp@geocat.net> (@juanluisrp)
+GitRepo: https://github.com/geonetwork/docker-geonetwork
+
+Tags: 3.10.2, 3.10, latest
+Architectures: amd64
+GitCommit: f81b111fbe3d765ee56f61c5474099764ee07004
+Directory: 3.10.2
+
+Tags: 3.10.2-postgres, 3.10-postgres, postgres
+Architectures: amd64
+GitCommit: f81b111fbe3d765ee56f61c5474099764ee07004
+Directory: 3.10.2/postgres
+
+Tags: 3.8.3, 3.8
+Architectures: amd64
+GitCommit: af81a4ff8f592d27b4911ad20d569379864ee85f
+Directory: 3.8.3
+
+Tags: 3.8.3-postgres, 3.8-postgres
+Architectures: amd64
+GitCommit: af81a4ff8f592d27b4911ad20d569379864ee85f
+Directory: 3.8.3/postgres
